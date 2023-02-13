@@ -17,6 +17,9 @@
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "recma-nextjs-static-props": "^1.0.0",
+    "remark-frontmatter": "^4.0.1",
+    "remark-mdx-frontmatter": "^2.1.1"
   }
 }
